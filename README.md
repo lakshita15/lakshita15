@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web development ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning FULL STACK DEVELOPMENT ✌...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 ✍️ 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 monthly 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
 
 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-HTML5 CSS3 JavaScript Vue.js React
+HTML CSS JavaScript 
+Git VS Code
 
-Webpack ESlint Git VS Code Netlify
-
-Sass Stylus TailwindCss
+Things I code with
+React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
 
 𝗦𝘁𝗮𝘁𝘀
 xiaoluoboding's github stats
 
-𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
