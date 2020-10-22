@@ -51,6 +51,8 @@ Git**
 <code><img height="40" src="https://cdn.svgporn.com/logos/mysql.svg"></code>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lakshita15)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="left" alt="lakshita's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshita15&show_icons=true&theme=default"/>
+
 
 <p> <img align='left ' src="https://miro.medium.com/max/875/1*WY7ELhXIVxbGlUwmhA1PSw.jpeg" width="30"  >Visit my profile and give a ⭐️ if you like it</p>
 
