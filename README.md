@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>  
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 <img src=" https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"  />
@@ -48,6 +48,8 @@ Git**
 <code><img height="40" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/mysql.svg"></code>  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lakshita15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p>Visit my profile and give a ⭐️ if you like it</p>
