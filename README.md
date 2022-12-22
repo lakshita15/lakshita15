@@ -75,12 +75,39 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshita15&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshita15&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="lakshita15"/>
-
+# GitHub Stats 📈
+<a href="https://github.com/lakshita15/lakshita15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshita15&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+<a href="https://github.com/lakshita15/lakshita15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshita15&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=lakshita%20Mahajans%20Github%20Stats" alt="Lakshita's GitHub Stats" />
+</a>
+<br><br>
+
+<a href="https://github.com/lakshita15/lakshita15">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshita15&theme=radical&hide_border=true)](https://github.com/lakshita15" alt="Lakshita's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/lakshita15/lakshita15">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshita15&theme=dark" alt="Lakshita's GitHub Streak Stats"/>
+</a>
+<br><br>
+
+<a href="https://github.com/lakshita15/NASA-APOD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshita15&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/lakshita15/Web-Postman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshita15&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/lakshita15/IP-Address_Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshita15&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<br><br>
+
+
 </div>
 
 <br>
