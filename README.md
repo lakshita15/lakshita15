@@ -95,16 +95,6 @@
 </a>
 <br><br>
 
-<a href="https://github.com/lakshita15/NASA-APOD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshita15&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/lakshita15/Web-Postman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshita15&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-<a href="https://github.com/lakshita15/IP-Address_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshita15&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <br><br>
 
 
