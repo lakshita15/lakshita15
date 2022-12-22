@@ -2,12 +2,12 @@
 </h1>
 <img align='right' src="https://static.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" width="330">
 
-<img src=" https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"  />  
-
   <br><br>:pizza: Take a look at my stats :P<br><br>  
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lakshita15)](https://github.com/ryo-ma/github-profile-trophy)  
+  [![trophy]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshita15&show_icons=true&locale=en" alt="Lakshita" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshita15&" alt="Lakshita" /></p>
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!  
 
 🖖 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕.  
