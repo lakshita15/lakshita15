@@ -22,8 +22,8 @@
 - A passionate Self-taught Front-end developer
 - Love listening music and dancing in spare time.
 - Currently learning Web Development by Self
-- Personal website [link]((https://lakshita15.github.io/))
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1Dq1MvpTjfItOfWc6QolqwXGmsOc1c9KK/view?usp=sharing))
+- Personal website [link](https://lakshita15.github.io/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Dq1MvpTjfItOfWc6QolqwXGmsOc1c9KK/view?usp=sharing)
 
 <br><br>
 
@@ -75,7 +75,7 @@
 <br>
 
 <div align="center">
-# GitHub Stats 📈
+
 <a href="https://github.com/lakshita15/lakshita15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshita15&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
